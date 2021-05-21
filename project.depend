@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1580663639 source:c:\users\pc center\desktop\asma\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<stdbool.h>
+
+1597153418 source:d:\pgu\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<stdbool.h>
+
